@@ -14,7 +14,7 @@ El alumno deberá demostrar solura en los siguientes temas de la Programación O
 Tomando como base la implementación de la calculadora científica de la actividad 2, se necesita el agregar las siguientes mejoras:
 
   * Generar una interfáz gráfica al estilo como la que se muesta a continuación
-    > ![img/fig1.png]
+    > ![alt text](https://github.com/UPV-Programacion-Orientada-a-Objetos/POO-Unidad-2-Actividad-1/blob/main/img/fig1.png "Imagen")
     1. Menú principal: Herramientas genéricas como Guardar, Abrir, cambiar estilo.
     2. Explorador de archivos: Permite la navegación de archivos y carpetas para poder cargar datos mediante doble click.
     3. Explorador de variables / objetos: Permite la visualización del estado de los objetos actualmente cargados en memoria.
